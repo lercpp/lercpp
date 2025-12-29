@@ -45,7 +45,18 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
 <a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
 </p>
 
-
+<div align="center">
+  <a href="https://vaaski.dev">
+		<!---->
+		<!-- dig into how this was made here: -->
+		<!-- https://github.com/vaaski/vaaski.dev/blob/2024/components/svg-hero.server.vue -->
+		<!---->
+		<!-- you can also see the generated version here: -->
+		<!-- https://vaaski.dev/static-svg -->
+		<!---->
+    <img src="space-logo.svg" />
+  </a>
+</div>
 -->
 
 <!--
