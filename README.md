@@ -5,7 +5,7 @@
 ### • I am a future student of the Faculty of Software Engineering.
 ### • I like to learn something new every day
 
-## Technologies and tools:
+## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> Technologies and tools:
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=8e561e2d0e7b48832064098dc9c494ef0bf9e0e6-5236101-images-thumbs&n=13"></code>
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=1fc2cdb2c9bd904774a79e844d77d562be10f125-4936065-images-thumbs&n=13"></code>
