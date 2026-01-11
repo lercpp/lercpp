@@ -23,7 +23,10 @@
 ### • I like to puzzle myself with difficult tasks
 
 ## I also run my own blog <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
-#### <code><img height="40" src="https://avatars.mds.yandex.net/i?id=c504f55590f487e2641949083abf30fa16dc38ce-5877102-images-thumbs&n=13"></code> 
+   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=c504f55590f487e2641949083abf30fa16dc38ce-5877102-images-thumbs&n=13"></code> 
+   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=8207007ec2e4ba7e16ef24f414f76ae816ffa984-5105971-images-thumbs&n=13"></code> 
+   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=2155b022208ecab4ba7a2fb2405de58f78dc30b406164a1e-12788981-images-thumbs&n=13"></code> 
+   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=8e3948b181aadddaaa970000be94c37f2815f292-16339837-images-thumbs&n=13"></code> 
 
 
 ## Thank you for visiting me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
