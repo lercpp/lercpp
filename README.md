@@ -13,7 +13,7 @@
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=04fffa32bb415d630936c8dd790a8590a4436d0e-12498917-images-thumbs&n=13"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=407cfed2ffa5d39944649bbdc82ac98237180396-8797773-images-thumbs&n=13"></code>
-  <code><img height="40" src="https://avatars.mds.yandex.net/i?id=d42c33d4fc010d7243fb70114786fc8ebe734578-4935694-images-thumbs&n=13"></code>
+  <code><img height="40" src="https://avatars.mds.yandex.net/i?id=525b9a4475d59d04247396cd101af7c1f171fd3eff19cfc2-12472858-images-thumbs&n=13"></code>
   
 ### I also run my own blog <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
 
