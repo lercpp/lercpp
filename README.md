@@ -1,9 +1,9 @@
 ### Welcome to my littell world <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little bit about me:
-My name is Lerisa!
-I am a future student of the Faculty of Software Engineering.
-I like to learn something new every day
+# My name is Lerisa!
+# I am a future student of the Faculty of Software Engineering.
+# I like to learn something new every day
 
 I also run my own blog <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
 
