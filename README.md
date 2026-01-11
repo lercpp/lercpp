@@ -23,12 +23,10 @@
 ### • I like to puzzle myself with difficult tasks
 
 ## I also run my own blog <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
-#### ![Telegram](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+#### <code><img height="40" src="https://avatars.mds.yandex.net/i?id=c504f55590f487e2641949083abf30fa16dc38ce-5877102-images-thumbs&n=13"></code> 
 
 
 ## Thank you for visiting me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
-
-
 
 <!--
 **lercpp/lercpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
