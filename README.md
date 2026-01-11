@@ -8,7 +8,9 @@
 ## Technologies and tools:
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="40" src="https://avatars.mds.yandex.net/i?id=0d8fce6ec9613ec71452ae2e6b34dc102dcc1c7d-4444221-images-thumbs&n=13"></code>
+  <code><img height="40" src="https://avatars.mds.yandex.net/i?id=1fc2cdb2c9bd904774a79e844d77d562be10f125-4936065-images-thumbs&n=13"></code>
+  <code><img height="40" src="https://avatars.mds.yandex.net/i?id=a9b181b27319494339ca901cc6b2e50e9419e888-4451316-images-thumbs&n=13"></code>
+  <code><img height="40" src="https://avatars.mds.yandex.net/i?id=f48ff7a025fcde1aaff4f5200a739bd94bf903c4-10355125-images-thumbs&n=13"></code>
   
 ### I also run my own blog <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
 
