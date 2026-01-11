@@ -23,7 +23,7 @@
 ### • I like to puzzle myself with difficult tasks
 
 ## I also run my own blog <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
-#### [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@lercpp)
+#### ![Telegram](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
 
 ## Thank you for visiting me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
