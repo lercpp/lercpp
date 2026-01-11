@@ -1,9 +1,9 @@
-# Welcome to my littell world <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Welcome to my little world <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little bit about me:
-### My name is Lerisa!
-### I am a future student of the Faculty of Software Engineering.
-### I like to learn something new every day
+### • My name is Lerisa!
+### • I am a future student of the Faculty of Software Engineering.
+### • I like to learn something new every day
 
 ## Technologies and tools:
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -14,7 +14,14 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=407cfed2ffa5d39944649bbdc82ac98237180396-8797773-images-thumbs&n=13"></code>
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=525b9a4475d59d04247396cd101af7c1f171fd3eff19cfc2-12472858-images-thumbs&n=13"></code>
-  
+
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> My hobbies:
+### • I've been making music for 11 years
+### • I like to draw
+### • I like to read detective stories and scientific materials
+### • I study languages: English, Chinese, Dactyl, and others
+### • I like to puzzle myself with difficult tasks
+
 ### I also run my own blog <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
 
 
