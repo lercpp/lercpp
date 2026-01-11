@@ -5,7 +5,7 @@
 ### • I am a future student of the Faculty of Software Engineering.
 ### • I like to learn something new every day
 
-## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> Technologies and tools:
+## Technologies and tools:
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=8e561e2d0e7b48832064098dc9c494ef0bf9e0e6-5236101-images-thumbs&n=13"></code>
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=1fc2cdb2c9bd904774a79e844d77d562be10f125-4936065-images-thumbs&n=13"></code>
@@ -15,7 +15,7 @@
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=407cfed2ffa5d39944649bbdc82ac98237180396-8797773-images-thumbs&n=13"></code>
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=525b9a4475d59d04247396cd101af7c1f171fd3eff19cfc2-12472858-images-thumbs&n=13"></code>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> My hobbies:
+## My hobbies:
 ### • I've been making music for 11 years
 ### • I like to draw
 ### • I like to read detective stories and scientific materials
@@ -23,6 +23,9 @@
 ### • I like to puzzle myself with difficult tasks
 
 ### I also run my own blog <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
+#### oprkofkopfkfof
+
+## Thank you for visiting me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
 
 
