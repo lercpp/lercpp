@@ -8,7 +8,7 @@
 ## Technologies and tools:
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=1ed2caa068e52232f096e96b558108b0a2e485ee-5349714-images-thumbs&n=13"></code>
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=8e561e2d0e7b48832064098dc9c494ef0bf9e0e6-5236101-images-thumbs&n=13"></code>
-  <code><img height="40" src="https://avatars.mds.yandex.net/i?id=1782028325aaddf0558dbe6d86c3c906bc31534b-9152878-images-thumbs&ref=rim&n=33&w=250&h=250"></code>
+  <code><img height="40" src="https://avatars.mds.yandex.net/i?id=0af99225e0b64a07e8f546ef2e788128f979c034-9263767-images-thumbs&n=13"></code>
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=1fc2cdb2c9bd904774a79e844d77d562be10f125-4936065-images-thumbs&n=13"></code>
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=a9b181b27319494339ca901cc6b2e50e9419e888-4451316-images-thumbs&n=13"></code>
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=04fffa32bb415d630936c8dd790a8590a4436d0e-12498917-images-thumbs&n=13"></code>
