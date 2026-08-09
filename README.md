@@ -2,8 +2,8 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little bit about me:
 ### • My name is Lerisa!
-### • I’m a software engineering student!
-### • I like to learn something new every day)
+### • I’m a software engineering student
+### • I like to learn something new every day
 
 ## Technologies and tools:
   <code><img height="40" src="https://avatars.mds.yandex.net/i?id=1ed2caa068e52232f096e96b558108b0a2e485ee-5349714-images-thumbs&n=13"></code>
