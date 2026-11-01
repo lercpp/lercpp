@@ -29,14 +29,6 @@ I love finding beauty in the little things, exploring the world, and trying myse
 <code><img height="40" src="https://avatars.mds.yandex.net/i?id=e20579d09f8eb747b6a19ffb90f68e46e010d816-5316897-images-thumbs&n=13"></code>
 <code><img height="40" src="https://avatars.mds.yandex.net/i?id=525b9a4475d59d04247396cd101af7c1f171fd3eff19cfc2-12472858-images-thumbs&n=13"></code>
 
-## ✧ Currently learning
-
-- C programming
-- Data structures
-- Algorithms
-- Computer architecture
-- Web development
-
 ## ✧ Goals
 
 - Improve problem-solving skills
@@ -47,9 +39,9 @@ I love finding beauty in the little things, exploring the world, and trying myse
 
 ## ✧ My blog
 
-<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
 <code><img height="40" src="https://avatars.mds.yandex.net/i?id=359af0025f68b7957e4293100c8aa56668e19dd3-4032310-images-thumbs&n=13"></code> 
 <code><img height="40" src="https://avatars.mds.yandex.net/i?id=8207007ec2e4ba7e16ef24f414f76ae816ffa984-5105971-images-thumbs&n=13"></code>
+
 ---
 
 <p align="center">
