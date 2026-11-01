@@ -37,8 +37,8 @@ I love finding beauty in the little things, exploring the world, and trying myse
 
 ## ✧ My blog
 
--Tik Tok
--Telegram
+- Tik Tok
+- Telegram
 
 ---
 
