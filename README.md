@@ -1,7 +1,11 @@
 
 <!-- HERO: главный баннер -->
 <p align="center">
-  <img src="assets/angel-banner.jpg" width="100%" alt="Angel clouds banner">
+  <img
+    src="assets/angel-banner.gif"
+    width="100%"
+    alt="Angel clouds"
+  >
 </p>
 
 <h1 align="center">lercpp</h1>
