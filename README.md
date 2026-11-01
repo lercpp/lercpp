@@ -2,7 +2,7 @@
 <!-- HERO: главный баннер -->
 <p align="center">
   <img
-    src=""
+    src="angel-banner.gif"
     width="100%"
     style="border-radius:20px;"
     alt="Angel clouds"
